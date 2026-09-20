@@ -6,7 +6,7 @@ This project was created as a frontend practice project to improve my understand
 
 ## 🚀 Live Demo
 
-[View Live Website](https://abdulrahman077.github.io/udemy-clone/)
+https://abdulrahman077.github.io/udemy-clone/
 
 ## 📌 About The Project
 
@@ -33,8 +33,7 @@ The goal of this project was to practice building a real-world website layout fr
 * HTML5
 * CSS3
 * Flexbox
-* CSS Grid
-* Media Queries
+* Box model
 
 ## 📚 What I Learned
 
@@ -43,7 +42,6 @@ Through this project, I practiced:
 * Creating semantic HTML layouts
 * Structuring a real-world website
 * Using Flexbox for alignment and navigation
-* Using CSS Grid for course card layouts
 * Creating responsive designs
 * Using media queries for different screen sizes
 * Styling cards, buttons, forms, and navigation elements
@@ -58,9 +56,9 @@ Udemy-Clone/
 ├── style.css
 │
 └── images/
-    ├── course1.jpg
-    ├── course2.jpg
-    ├── course3.jpg
+    ├── c1.jpg
+    ├── c2.jpg
+    ├── c3.jpg
     └── ...
 ```
 
@@ -74,7 +72,7 @@ This is a **static practice project** and does not include backend functionality
 
 **Abdul Rahman**
 
-Frontend Development Learner
+Full stack developer Learner
 
 ---
 
